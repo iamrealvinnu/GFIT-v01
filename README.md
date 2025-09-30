@@ -5,13 +5,24 @@
   
   [![React Native](https://img.shields.io/badge/React%20Native-0.72.6-blue.svg)](https://reactnative.dev/)
   [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey.svg)](https://reactnative.dev/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
   [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/iamrealvinnu/GFIT-v01)
+  [![Developed by](https://img.shields.io/badge/Developed%20by-GDI%20Nexus-orange.svg)](https://github.com/iamrealvinnu)
 </div>
+
+## ⚠️ PROPRIETARY SOFTWARE NOTICE
+
+**This software is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.**
 
 ## 📱 Overview
 
-**GFIT** is a comprehensive fitness and wellness mobile application developed by Ben's Stamina Factory. This production-ready React Native application provides users with personalized workout tracking, nutrition guidance, community features, and professional coaching services.
+**GFIT** is a comprehensive fitness and wellness mobile application developed by **GDI Nexus team** for **Ben's Stamina Factory**. This production-ready React Native application provides users with personalized workout tracking, nutrition guidance, community features, and professional coaching services.
+
+### 🔒 **STRICT COPYRIGHT PROTECTION**
+- **NO DOWNLOADING** without explicit written permission
+- **NO COPYING** of source code, assets, or documentation
+- **NO DISTRIBUTION** without proper licensing
+- **NO REVERSE ENGINEERING** or decompilation allowed
 
 ### 🎯 Key Features
 
@@ -204,19 +215,20 @@ GFIT/
 - **Memory Usage**: Efficient resource management
 - **Battery Optimization**: Background task management
 
-## 🤝 Contributing
+## 🚫 NO CONTRIBUTING - PROPRIETARY CODE
 
-### Development Guidelines
-1. Follow React Native best practices
-2. Maintain code quality standards
-3. Write comprehensive tests
-4. Document all changes
+**This is proprietary software developed exclusively by GDI Nexus team for Ben's Stamina Factory.**
 
-### Code Review Process
-1. Create feature branch
-2. Submit pull request
-3. Address review feedback
-4. Merge to main branch
+### ⛔ **RESTRICTED ACCESS**
+- **NO PUBLIC CONTRIBUTIONS** accepted
+- **NO FORKING** allowed without permission
+- **NO PULL REQUESTS** from external developers
+- **NO ISSUE TRACKING** for external users
+
+### 🔐 **DEVELOPMENT TEAM ONLY**
+- **GDI Nexus Team**: Exclusive development rights
+- **Ben's Stamina Factory**: Client and owner
+- **Authorized Personnel**: Only designated team members
 
 ## 📄 License
 
@@ -238,10 +250,11 @@ This software is proprietary to Ben's Stamina Factory. Commercial use, distribut
 
 ## 🏆 Acknowledgments
 
-- **Development Team**: Ben's Stamina Factory Development Team
-- **Design**: Professional UI/UX Design Team
-- **Testing**: Quality Assurance Team
-- **Community**: Beta testers and early adopters
+- **Development Team**: GDI Nexus Development Team
+- **Client**: Ben's Stamina Factory
+- **Design**: GDI Nexus UI/UX Design Team
+- **Testing**: GDI Nexus Quality Assurance Team
+- **Project Management**: GDI Nexus Project Management Team
 
 ## 📈 Roadmap
 
@@ -266,6 +279,7 @@ This software is proprietary to Ben's Stamina Factory. Commercial use, distribut
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ by Ben's Stamina Factory</strong></p>
-  <p>© 2024 Ben's Stamina Factory. All rights reserved.</p>
+  <p><strong>Built with ❤️ by GDI Nexus Team for Ben's Stamina Factory</strong></p>
+  <p>© 2024 GDI Nexus & Ben's Stamina Factory. All rights reserved.</p>
+  <p><strong>PROPRIETARY SOFTWARE - UNAUTHORIZED USE PROHIBITED</strong></p>
 </div>

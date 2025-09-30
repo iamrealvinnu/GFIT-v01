@@ -1,6 +1,6 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE
 
-Copyright (c) 2024 Ben's Stamina Factory (BSF) - GFIT Application
+Copyright (c) 2024 GDI Nexus Development Team & Ben's Stamina Factory (BSF) - GFIT Application
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -21,15 +21,16 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 PROPRIETARY NOTICE:
-This software contains proprietary and confidential information of Ben's Stamina Factory.
-The source code, algorithms, and business logic contained herein are trade secrets
-and confidential information of Ben's Stamina Factory. Unauthorized copying,
-distribution, or reverse engineering of this software is strictly prohibited.
+This software contains proprietary and confidential information of GDI Nexus Development Team
+and Ben's Stamina Factory. The source code, algorithms, and business logic contained herein 
+are trade secrets and confidential information of GDI Nexus & Ben's Stamina Factory. 
+Unauthorized copying, distribution, or reverse engineering of this software is strictly prohibited.
 
 COMMERCIAL USE RESTRICTIONS:
 This software is intended for commercial use by Ben's Stamina Factory only.
 Any commercial use, distribution, or modification of this software without
-explicit written permission from Ben's Stamina Factory is strictly prohibited.
+explicit written permission from GDI Nexus Development Team and Ben's Stamina Factory 
+is strictly prohibited.
 
 SECURITY NOTICE:
 This software is protected by copyright laws and international treaties.
@@ -37,4 +38,6 @@ Unauthorized reproduction or distribution of this software, or any portion of it
 may result in severe civil and criminal penalties, and will be prosecuted to the
 maximum extent possible under law.
 
-For licensing inquiries, please contact: legal@bensstaminafactory.com
+For licensing inquiries, please contact: 
+- GDI Nexus: legal@gdinexus.com
+- Ben's Stamina Factory: legal@bensstaminafactory.com

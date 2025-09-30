@@ -258,19 +258,19 @@ This software is proprietary to Ben's Stamina Factory. Commercial use, distribut
 
 ## 📈 Roadmap
 
-### Version 2.0 (Q2 2024)
+### Version 2.0 (Q2 2025)
 - [ ] AI-powered workout recommendations
 - [ ] Social features and community
 - [ ] Advanced analytics dashboard
 - [ ] Wearable device integration
 
-### Version 2.1 (Q3 2024)
+### Version 2.1 (Q3 2025)
 - [ ] Nutrition tracking
 - [ ] Meal planning
 - [ ] Recipe database
 - [ ] Calorie counter
 
-### Version 3.0 (Q4 2024)
+### Version 3.0 (Q4 2025)
 - [ ] Virtual reality workouts
 - [ ] Live streaming classes
 - [ ] Personal trainer marketplace
@@ -280,6 +280,7 @@ This software is proprietary to Ben's Stamina Factory. Commercial use, distribut
 
 <div align="center">
   <p><strong>Built with ❤️ by GDI Nexus Team for Ben's Stamina Factory</strong></p>
-  <p>© 2024 GDI Nexus & Ben's Stamina Factory. All rights reserved.</p>
+  <p>© 2025 GDI Nexus & Ben's Stamina Factory. All rights reserved.</p>
   <p><strong>PROPRIETARY SOFTWARE - UNAUTHORIZED USE PROHIBITED</strong></p>
+
 </div>

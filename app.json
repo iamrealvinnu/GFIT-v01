@@ -13,17 +13,33 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.iamvinay.GFIT",
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "Allow Face ID to unlock your GFIT session on this device."
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.iamvinay.GFIT"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-web-browser",
+      "expo-video",
+      "expo-local-authentication"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "708d9143-ecd3-4ccf-9aa0-fa1e3f915332"
+      }
     }
   }
 }
